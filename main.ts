@@ -4,7 +4,7 @@
 // a viewer can read: Iran's claim of a U.S. radar strike in Bahrain and the tankers hit in Hormuz
 // (worded as a claim, unverified), Europe joining the Ukraine peace talks, Nvidia chief Jensen
 // Huang resigning, China's unannounced drills around Taiwan, and the IEA's oil surplus forecast.
-// The gate takes a whole PNG or JPEG of at most 1 MiB and 1024 by 1024 pixels, and the judge sees
+// The page is 1024x1024 pixels and 510,974 bytes, inside the gate limits. The gate takes a whole PNG or JPEG of at most 1 MiB and 1024 by 1024 pixels, and the judge sees
 // exactly the bytes copied.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
